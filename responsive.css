@@ -1,0 +1,12 @@
+@media only screen and (max-width: 740px) {
+    nav ul li a   {
+          font-size: small;
+      }
+      .b{margin-left: 2px;}
+      .c{margin-left: 2px;}
+      .d{margin-left: 2px;}
+      .logo{margin-right: 4px;}
+     nav ul{height: 20px;}
+     .movie ul div{height: 40px;
+    width: 15vw;}
+      }
